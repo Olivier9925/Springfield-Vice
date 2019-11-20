@@ -13,7 +13,6 @@
 
 Réalisation d'une application (jeu) full React sur le theme des Simpson.
 
-L'application doit être mobile (tactile).
 
 ### <a href="http://bit.ly/32YuZkt">Tester le jeu dans votre navigateur </a>
 
