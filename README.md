@@ -18,7 +18,7 @@ Réalisation d'une application (jeu) full React sur le theme des Simpson.
 
 
 ### Ou sur mobile :
-préferez utiliser Chrome et ajoutez la page à votre écran d'accueil pour profitez pleinement du jeu.
+préferez utiliser Chrome et ajoutez la page à votre écran d'accueil pour profiter pleinement du jeu.
 
 
 <p align="center"><img src="https://github.com/Olivier9925/Springfield-Vice/blob/master/QRcode.png?raw=true" /></p>
