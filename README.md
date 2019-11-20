@@ -11,7 +11,7 @@
 
 ## PROJET 2 - REACT
 
-Réalisation d'une application (jeu) full React sur le theme des Simpson.
+Réalisation d'une application (jeu) full React sur le thème des Simpsons.
 
 
 ### <a href="http://bit.ly/32YuZkt">Tester le jeu dans votre navigateur </a>
