@@ -9,6 +9,10 @@
 
 # SpringField Vice
 
+La version native iOS en SwiftUI et SpriteKit se trouve dans [`ios/`](ios/README.md).
+Ouvrez `ios/SpringfieldVice.xcodeproj` sur Mac avec Xcode 15 ou supérieur.
+Le jeu React d’origine reste dans `springfield_vice/`.
+
 ## PROJET 2 - REACT
 
 Réalisation d'une application (jeu) full React sur le thème des Simpsons.
